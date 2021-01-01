@@ -1,0 +1,27 @@
+{
+    id:1
+    firstname:Gundel
+    name:Gaukeley
+    age:80
+    pin:1234
+    gender:female
+    balance:2500
+}
+{
+    id:2
+    firstname:Donald
+    name:Duck
+    age:40
+    pin:1111
+    gender:male
+    balance:1
+}
+{
+    id:3
+    firstname:Dagobert
+    name:Duck
+    age:105
+    pin:7567
+    gender:male
+    balance:20000000000000
+}
